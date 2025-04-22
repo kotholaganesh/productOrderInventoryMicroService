@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7b104a7-46f9-4b47-8a67-facffc916256" name="Changes" comment="discovery and inventory added">
+      <changelist_data name="Gani" email="kothollaganesh1997@gmail.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleDemo/SampleDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/kotho.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/product_service_0_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/order-service/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/order-service/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/src/main/java/com/programmingtechie/discovery_server/DiscoveryServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/programmingtechie/discovery_server/DiscoveryServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/programmingtechie/inventory_service/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingtechie/inventory_service/InventoryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/programmingtechie/inventory_service/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingtechie/inventory_service/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/programmingtechie/inventory_service/dto/InventoryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingtechie/inventory_service/dto/InventoryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/programmingtechie/inventory_service/model/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingtechie/inventory_service/model/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/programmingtechie/inventory_service/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingtechie/inventory_service/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/programmingtechie/inventory_service/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/programmingtechie/inventory_service/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/test/java/com/programmingtechie/inventory_service/InventoryServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/test/java/com/programmingtechie/inventory_service/InventoryServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programmingtechie/order_service/config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programmingtechie/order_service/config/WebClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programmingtechie/order_service/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programmingtechie/order_service/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/classes/com/programmingtechie/order_service/OrderServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/classes/com/programmingtechie/order_service/OrderServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/classes/com/programmingtechie/order_service/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/classes/com/programmingtechie/order_service/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/classes/com/programmingtechie/order_service/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/classes/com/programmingtechie/order_service/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/surefire-reports/TEST-com.programmingtechie.order_service.OrderServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/surefire-reports/TEST-com.programmingtechie.order_service.OrderServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/target/surefire-reports/com.programmingtechie.order_service.OrderServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service/target/surefire-reports/com.programmingtechie.order_service.OrderServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/ProductServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/dto/ProductRequest$ProductRequestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/dto/ProductRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/dto/ProductResponse$ProductResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/dto/ProductResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/model/Product$ProductBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/classes/com/engineeringtechie/product_service/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/product-service-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/product-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/surefire-reports/TEST-com.engineeringtechie.product_service.ProductServiceApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/surefire-reports/TEST-com.engineeringtechie.product_service.testController.ProductControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/surefire-reports/com.engineeringtechie.product_service.ProductServiceApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/surefire-reports/com.engineeringtechie.product_service.testController.ProductControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/test-classes/com/engineeringtechie/product_service/ProductServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/test-classes/com/engineeringtechie/product_service/testController/ProductControllerTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/test-classes/com/engineeringtechie/product_service/testController/ProductControllerTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/target/test-classes/com/engineeringtechie/product_service/testController/ProductControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gani &lt;kothollaganesh1997@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/product-service/product-service" value="order-service" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kotholaganesh/productOrderInventoryMicroService.git&quot;,
+    &quot;accountId&quot;: &quot;1770eab9-9f25-413d-a93c-dec96e5ef50f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/discovery-server/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/inventory-service/src/main/java/com/programmingtechie/inventory_service/InventoryServiceApplication.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/order-service/order-service/src/main/java/com/programmingtechie/order_service/service/OrderService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/order-service/order-service/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/product-service/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2uRnXDyR5WVz5B1JWqhixVporDD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscoveryServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InventoryServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.api-gateway.executor&quot;: &quot;Run&quot;,
+    &quot;Application.discovery-server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inventory-service.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inventpry-service.executor&quot;: &quot;Run&quot;,
+    &quot;Application.order-service.executor&quot;: &quot;Run&quot;,
+    &quot;Application.product-service.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.discovery-server [clean,install,-U].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.discovery-server [clean,install,_U].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.discovery-server [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.inventory_service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.inventory_service [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.order-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.order-service [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.product-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.product-service [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;StatusDashboardGroupingRule&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kotho/Workspace/microservices/api-gateway/pom.xml&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kotho/Workspace/microservices/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15513627&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.programmingtechie.order_service.dto" />
+      <recent name="com.programmingtechie.order_service.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.programmingtechie.order_service.dto" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install _U" />
+      <command value="mvn clean install" />
+      <command value="mvn clean install -U" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.api-gateway">
+    <configuration name="api-gateway" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.programmingtechie.api_gateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="discovery-server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmingtechie.discovery_server.DiscoveryServerApplication" />
+      <module name="discovery-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programmingtechie.discovery_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inventory-service" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.programmingtechie.inventory_service.InventoryServiceApplication" />
+      <module name="inventory_service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="order-service" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.programmingtechie.order_service.OrderServiceApplication" />
+      <module name="order-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="product-service" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.engineeringtechie.product_service.ProductServiceApplication" />
+      <module name="product-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="microservices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="microservices" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.discovery-server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b104a7-46f9-4b47-8a67-facffc916256" name="Changes" comment="" />
+      <created>1742220291343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742220291343</updated>
+    </task>
+    <task id="LOCAL-00001" summary="discovery and inventory added">
+      <option name="closed" value="true" />
+      <created>1745239343692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745239343692</updated>
+    </task>
+    <task id="LOCAL-00002" summary="discovery and inventory added">
+      <option name="closed" value="true" />
+      <created>1745239454138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745239454138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="discovery and inventory added" />
+    <option name="LAST_COMMIT_MESSAGE" value="discovery and inventory added" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/order-service/src/main/java/com/programmingtechie/order_service/model/OrderLineItems.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
